@@ -1,0 +1,2 @@
+# aerolinetrc
+proyecto aerolinea bdd
